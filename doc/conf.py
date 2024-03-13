@@ -21,7 +21,7 @@ sys.path.append(os.path.dirname(__file__) + "/..")
 sys.path.append(os.path.dirname(__file__) + "/../recon_surf")
 
 project = "FastSurfer"
-copyright = "2023, FastSurfer Team"
+copyright = "2024, FastSurfer Team"
 author = "FastSurfer Team"
 copyright = f"{date.today().year}, {author}"
 gh_url = "https://github.com/deep-mi/FastSurfer"
