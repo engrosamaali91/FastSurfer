@@ -21,11 +21,9 @@ sys.path.append(os.path.dirname(__file__) + "/..")
 sys.path.append(os.path.dirname(__file__) + "/../recon_surf")
 
 project = "FastSurfer"
-copyright = "2023, Martin Reuter"
-author = "Martin Reuter"
+copyright = "2023, FastSurfer Team"
+author = "FastSurfer Team"
 copyright = f"{date.today().year}, {author}"
-# release = FastSurferCNN.__version__
-# package = fsqc.__name__
 gh_url = "https://github.com/deep-mi/FastSurfer"
 
 
